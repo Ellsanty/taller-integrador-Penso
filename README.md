@@ -15,4 +15,4 @@
 | Código muerto / basura (función comentada)[cite: 3] | Ensucia el código fuente y dificulta el mantenimiento a futuro[cite: 1]. | Se eliminó por completo el bloque de código comentado obsoleto. |
 
 ## Enlace del Sitio Publicado
-* **Netlify URL:** [Inserta aquí tu enlace público de Netlify]
+* **Netlify URL:** [https://taller-integrador-penso.netlify.app]
